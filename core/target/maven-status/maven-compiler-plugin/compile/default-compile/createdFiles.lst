@@ -1,0 +1,3 @@
+com\tcf\trainings\jenkins\timetracker\core\TrackerCoreConfig.class
+com\tcf\trainings\jenkins\timetracker\core\dao\TimeEntry.class
+com\tcf\trainings\jenkins\timetracker\core\Tracker.class
